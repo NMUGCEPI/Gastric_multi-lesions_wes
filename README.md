@@ -2,11 +2,11 @@
 
 ## Main code for paper "Evolving genomic characteristics of intestinal metaplasia and gastric cancer"
 
-### Trim adapter and low-quality sequence
+### Trim adapter and low-quality sequence (Trimmomatic (v0.36))
 
 GATK4_pipeline_trim.sh
 
-### Map read sequences to the human reference genome
+### Map read sequences to the human reference genome (BWA-MEM (v0.7.15), GATK (v4.1.7))
 
 #### Map reads and mark duplicates 
 
@@ -16,7 +16,7 @@ GATK4_pipeline_bwamap.sh
 
 GATK4_pipeline_bqsr.sh
 
-### Call somatic variants
+### Call somatic variants (GATK (v4.1.7))
 
 #### Create PON
 
