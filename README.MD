@@ -110,6 +110,6 @@ Focus: MUC6 mutation distribution, epithelial proportions, cell-cell communicati
 ---
 
 ## **Contact**
-For questions or issues regarding the code, please contact [Your Name/Email/Institution].
+For questions or issues regarding the code, please contact [xuxianfeng@njmu.edu.cn].
 
 ---
