@@ -103,9 +103,8 @@ Focus: MUC6 mutation distribution, epithelial proportions, cell-cell communicati
 3. Execute scripts in the specified order under the "Data Processing Pipelines" section.
 
 ### **Figure Generation**
-1. Ensure processed data is available.
-2. Install R and required R packages.
-3. Run the relevant R scripts to generate each figure.
+1. Install R and required R packages.
+2. Run the relevant R scripts to generate each figure.
 
 ---
 
